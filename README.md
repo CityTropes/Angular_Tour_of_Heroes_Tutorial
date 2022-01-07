@@ -1,5 +1,10 @@
 # AngularTourOfHeroes
 
+<p align="center">
+  <img src="https://github.com/CityTropes/Angular_Tour_of_Heroes_Tutorial/blob/b9b87ab96ad109ad23c8c4962e5aeb24744c3278/screenshot.png" />
+</p>
+<br>
+
 You can follow this tutorial with detailed explanation via https://angular.io/tutorial. <br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
